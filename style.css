@@ -30,7 +30,7 @@ body {
 }
 @media only screen and (min-width: 720px){
 	body{
-		background:url(https://farm9.static.flickr.com/8644/30044346870_3cec50544f_b.jpg);
+		background:url(header.jpg);
 		background-repeat:no-repeat;
 -webkit-background-size:cover;
 -moz-background-size:cover;
